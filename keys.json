@@ -1,23 +1,30 @@
 {
-  "GHOST-A1B2-C3D4-E5F6": {
-    "expires": "2027-12-31T23:59:59",
+  "Ghost": {
+    "expires": "never",
+    "max_users": 5,
+    "devices": [],
+    "note": "Main key",
+    "created": "2025-01-01"
+  },
+  "Anonymous": {
+    "expires": "never",
+    "max_users": 3,
+    "devices": [],
+    "note": "Anonymous key",
+    "created": "2025-01-01"
+  },
+  "Ali123": {
+    "expires": "2026-12-31T23:59:59",
     "max_users": 2,
     "devices": [],
-    "note": "Ali - 1 year plan",
-    "created": "2025-01-01"
+    "note": "Ali - 1 year",
+    "created": "2025-01-15"
   },
-  "GHOST": {
-    "expires": "never",
+  "Test": {
+    "expires": "2026-06-30T23:59:59",
     "max_users": 1,
     "devices": [],
-    "note": "VIP lifetime",
-    "created": "2025-01-01"
-  },
-  "GHOST-TRIAL-0001-AAAA": {
-    "expires": "2025-02-15T23:59:59",
-    "max_users": 1,
-    "devices": [],
-    "note": "Trial 30 days",
+    "note": "Trial",
     "created": "2025-01-15"
   }
 }
