@@ -1,12 +1,12 @@
 {
-  "Ghost": {
+  "RNONTOPMASTER": {
     "expires": "never",
     "max_users": 5,
     "devices": [],
     "note": "Main key",
     "created": "2025-01-01"
   },
-  "Anonymous": {
+  "AnonymousUserONTP": {
     "expires": "never",
     "max_users": 3,
     "devices": [],
@@ -14,14 +14,14 @@
     "created": "2025-01-01"
   },
   "Ali123": {
-    "expires": "2026-12-31T23:59:59",
+    "expires": "2025-12-31T23:59:59",
     "max_users": 2,
     "devices": [],
     "note": "Ali - 1 year",
     "created": "2025-01-15"
   },
   "Test": {
-    "expires": "2026-06-30T23:59:59",
+    "expires": "2025-06-30T23:59:59",
     "max_users": 1,
     "devices": [],
     "note": "Trial",
