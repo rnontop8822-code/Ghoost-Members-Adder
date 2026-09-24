@@ -6,9 +6,9 @@
     "note": "Ali - 1 year plan",
     "created": "2025-01-01"
   },
-  "GHOST-VIP1-VIP2-VIP3": {
+  "GHOST": {
     "expires": "never",
-    "max_users": 5,
+    "max_users": 1,
     "devices": [],
     "note": "VIP lifetime",
     "created": "2025-01-01"
