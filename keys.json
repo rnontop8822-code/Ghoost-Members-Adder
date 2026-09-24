@@ -1,0 +1,23 @@
+{
+  "GHOST-A1B2-C3D4-E5F6": {
+    "expires": "2025-12-31T23:59:59",
+    "max_users": 2,
+    "devices": [],
+    "note": "Ali - 1 year plan",
+    "created": "2025-01-01"
+  },
+  "GHOST-VIP1-VIP2-VIP3": {
+    "expires": "never",
+    "max_users": 5,
+    "devices": [],
+    "note": "VIP lifetime",
+    "created": "2025-01-01"
+  },
+  "GHOST-TRIAL-0001-AAAA": {
+    "expires": "2025-02-15T23:59:59",
+    "max_users": 1,
+    "devices": [],
+    "note": "Trial 30 days",
+    "created": "2025-01-15"
+  }
+}
