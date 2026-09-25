@@ -20,9 +20,9 @@
     "note": "Ali - 1 year",
     "created": "2025-01-15"
   },
-  "Test": {
-    "expires": "2025-06-30T23:59:59",
-    "max_users": 1,
+  "GHOST10DAYTRIAL": {
+    "expires": "2027-06-30T23:59:59",
+    "max_users": 1000,
     "devices": [],
     "note": "Trial",
     "created": "2025-01-15"
