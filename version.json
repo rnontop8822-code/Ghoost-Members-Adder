@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
   "download_url": "https://raw.githubusercontent.com/rnontop8822-code/Ghoost-Members-Adder/main/ghost.py",
-  "required": false,
+  "required": true,
   "changelog": "Bug fixes and performance improvements"
 }
