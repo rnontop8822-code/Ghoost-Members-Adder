@@ -1,7 +1,7 @@
 {
   "RNONTOPMASTER": {
     "expires": "never",
-    "max_users": 5,
+    "max_users": 1,
     "devices": [],
     "note": "Main key",
     "created": "2025-01-01"
@@ -21,10 +21,10 @@
     "created": "2025-01-15"
   },
   "GHOST10DAYTRIAL": {
-    "expires": "2027-06-30T23:59:59",
+    "expires": "2026-10-5T23:59:59",
     "max_users": 1000,
     "devices": [],
-    "note": "Trial",
+    "note": "FREE KEY FOR PUBLIC",
     "created": "2025-01-15"
   }
 }
