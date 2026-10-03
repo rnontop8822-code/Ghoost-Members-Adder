@@ -1,7 +1,8 @@
 {
-  "version": "1.0.0",
-  "update": false,
+  "version": "1.0.3",
+  "update": true,
   "files": {
+    "Ghost.py": "https://raw.githubusercontent.com/rnontop8822-code/Ghoost-Members-Adder/main/Ghost.py",
     "Ghost_A.py": "https://raw.githubusercontent.com/rnontop8822-code/Ghoost-Members-Adder/main/Ghost_A.py",
     "Ghost_B.py": "https://raw.githubusercontent.com/rnontop8822-code/Ghoost-Members-Adder/main/Ghost_B.py"
   }
